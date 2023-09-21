@@ -3,4 +3,4 @@ Differential Evolution (DE) is a popular optimization algorithm used for solving
 
 ### Implementation
 * Original differential evolution
-* Adaptive Dynamic Disturbance Strategy for Differential Evolution Algorithm (ADDSDE) [https://www.researchgate.net/publication/339922264_Adaptive_Dynamic_Disturbance_Strategy_for_Differential_Evolution_Algorithm]
+* Adaptive Dynamic Disturbance Strategy for Differential Evolution Algorithm [ADDSDE](https://www.researchgate.net/publication/339922264_Adaptive_Dynamic_Disturbance_Strategy_for_Differential_Evolution_Algorithm)
